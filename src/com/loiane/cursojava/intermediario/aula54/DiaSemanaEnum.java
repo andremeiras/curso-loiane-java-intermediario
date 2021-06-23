@@ -9,7 +9,7 @@ public enum DiaSemanaEnum {
 	DiaSemanaEnum(int valor) {
 		this.valor = valor;
 	}
-	
+
 	public int getValor() {
 		return this.valor;
 	}
